@@ -1,49 +1,57 @@
 # Hi, I'm Hari 👋
 
-I'm an Electronics and Communication Engineering student interested in
-AI, embedded systems, robotics, and hardware-software integration.
+Electronics and Communication Engineering student building AI-powered
+autonomous systems — from crop-monitoring drones to full-stack business
+platforms, with a growing focus on embedded systems and digital design.
 
 ## About Me
 
-- 🎓 ECE Student
-- 🤖 Building AI agents and autonomous systems with ai tools 
-- 🔧 Working with ESP32, Arduino, and Raspberry Pi
-- 🧠 Exploring local LLMs and AI agents
-- 💻 Interested in embedded systems, Verilog, and digital design
-- 🚀 Always building and experimenting with new ideas
+- 🎓 3rd-year ECE student, preparing for GATE EC / M.Tech (IIT/NIT track)
+- 🚁 Building offline-first AI systems for hardware — drones and edge devices
+- 🏗️ Designing and shipping full-stack SaaS systems (multi-tenant POS)
+- 🔧 Hands-on with ESP32, Arduino, and Raspberry Pi across multiple robotics builds
+- 🧠 Running local LLMs and building agent systems from scratch
+- 💻 Learning Verilog and RTL design, aiming toward chip-design roles
 
 ## Current Projects
 
-### Agri-Glide
-An agricultural monitoring system combining drones, computer vision,
-edge computing, and AI for crop monitoring.
+### AGRI-GLIDE
+Offline-first crop disease detection system for agricultural drones —
+Raspberry Pi + custom CNN (AGRINet) built from scratch, running fully
+on-device with no network dependency. Three-stage pipeline: leaf
+detection → classification → disease localization.
+
+### Biznex BOS
+Multi-tenant SaaS POS system (FastAPI + React) currently in pilot with
+two live businesses. Layered access architecture keeps backend/DB on an
+internal network while owners access only a public HTTPS interface, with
+offline-first support and a licence-key system.
+
+*More projects and code on [GitHub](https://github.com/coder1317).*
 
 ## Technologies
 
 **Languages**
-- C/C++
-- Python
-- Verilog
-- JavaScript
+- C/C++, Python, Verilog, JavaScript
 
 **Hardware**
-- Raspberry Pi
+- Raspberry Pi, ESP32, Arduino
+- FPGA toolchain: Icarus Verilog, GTKWave, Yosys, Tang Nano 9K
 
 **AI / Software**
-- A custom cnn model specifically built from scratch for agri-glide 
-- Computer Vision
+- Custom CNN architecture design (built from scratch, not fine-tuned)
+- Computer Vision, Edge AI (ONNX Runtime deployment)
+- FastAPI, React
 - Git / GitHub
 
 ## What I'm Learning
 
-- Verilog & Digital Design
-- Embedded Systems
-- AI Agent Architecture
-- Edge AI
-- Robotics
-- Computer Vision
+- Verilog & RTL Design (targeting semiconductor/chip-design roles)
+- FPGA development & digital design
+- Advanced multi-agent AI architecture
+- Robotics & embedded systems integration
 
 ## Connect With Me
 
-- LinkedIn: [S Hari Hara Nath](www.linkedin.com/in/sistla-hari-hara-nath)
+- LinkedIn: [S Hari Hara Nath](https://www.linkedin.com/in/sistla-hari-hara-nath)
 - GitHub: [@coder1317](https://github.com/coder1317)
