@@ -1,22 +1,22 @@
 # Hi, I'm Hari 👋
 
 Electronics and Communication Engineering student building AI-powered
-autonomous systems — from crop-monitoring drones to full-stack business
+autonomous systems  from crop monitoring drones to fullstack business
 platforms, with a growing focus on embedded systems and digital design.
 
 ## About Me
 
 - 🎓 3rd-year ECE student, preparing for GATE EC / M.Tech (IIT/NIT track)
-- 🚁 Building offline-first AI systems for hardware — drones and edge devices
-- 🏗️ Designing and shipping full-stack SaaS systems (multi-tenant POS)
+- 🚁 Building offline-first AI systems for hardware drones and edge devices
+- 🏗️ Designing and shipping full-stack SaaS systems (multi store POS)
 - 🔧 Hands-on with ESP32, Arduino, and Raspberry Pi across multiple robotics builds
 - 🧠 Running local LLMs and building agent systems from scratch
-- 💻 Learning Verilog and RTL design, aiming toward chip-design roles
+- 💻 Learning Verilog and RTL design, aiming toward chip design roles
 
 ## Current Projects
 
 ### AGRI-GLIDE
-Offline-first crop disease detection system for agricultural drones —
+Offline-first crop disease detection system for agricultural drones 
 Raspberry Pi + custom CNN (AGRINet) built from scratch, running fully
 on-device with no network dependency. Three-stage pipeline: leaf
 detection → classification → disease localization.
